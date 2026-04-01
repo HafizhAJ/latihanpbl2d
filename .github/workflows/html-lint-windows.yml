@@ -8,7 +8,7 @@ on:
 
 jobs: 
   lint:
-    runs-out: windows-latest
+    runs-on: windows-latest
 
     steps:
     - name: Checkout Repository
